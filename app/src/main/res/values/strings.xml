@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Student Portal</string>
+
+    <string-array name="course">
+        <item>Programming and internet technologies</item>
+        <item>Web Integration</item>
+        <item>Computer Network Security</item>
+        <item>Programming and Network Security</item>
+    </string-array>
+
+</resources>
